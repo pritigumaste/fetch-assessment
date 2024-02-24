@@ -58,7 +58,7 @@ For executing the POST request, we can use Postman and make a call to the endpoi
 
 Response to our POST request
   
-  ![Image]()
+  ![Image](https://github.com/pritigumaste/fetch-assessment/blob/main/images/post.png)
 
 - GET Request
 
@@ -66,4 +66,4 @@ As a response you will get a <receipt_id> which you will pass in the second requ
 
 Response to our GET request
 
-  ![Image]()
+  ![Image](https://github.com/pritigumaste/fetch-assessment/blob/main/images/get.png)
